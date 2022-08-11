@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lb4/Z8XIYmtp229s3I3V9TkJXIGKw6zQLuENPR4THu8=",
+  "Source": "GrafanaWebTemplate",
+  "BasePath": "_content/GrafanaWebTemplate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

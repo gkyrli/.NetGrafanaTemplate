@@ -1,0 +1,15 @@
+﻿tempo:
+  configs:
+    - name: default
+      receivers:
+        otlp:
+          protocols:
+            grpc:
+      remote_write:
+        - endpoint: https://tempo-eu-west-0.grafana.net:443
+          basic_auth:
+            username: 258447
+            password: eyJrIjoiMWJiNGU2ZjAzODU4MzIwNWVjYzMxNDQzZDYzMmU2NTBjODczN2QwNiIsIm4iOiJwdWJsaXNoIiwiaWQiOjY4OTY0N30=
+#      batch:
+#        timeout: 5s
+#        send_batch_size: 100

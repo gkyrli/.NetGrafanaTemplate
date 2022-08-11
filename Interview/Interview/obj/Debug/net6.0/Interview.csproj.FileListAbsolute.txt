@@ -1,0 +1,15 @@
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\bin\Debug\net6.0\Interview.exe
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\bin\Debug\net6.0\Interview.deps.json
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\bin\Debug\net6.0\Interview.runtimeconfig.json
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\bin\Debug\net6.0\Interview.dll
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\bin\Debug\net6.0\ref\Interview.dll
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\bin\Debug\net6.0\Interview.pdb
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\obj\Debug\net6.0\Interview.csproj.AssemblyReference.cache
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\obj\Debug\net6.0\Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\obj\Debug\net6.0\Interview.AssemblyInfoInputs.cache
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\obj\Debug\net6.0\Interview.AssemblyInfo.cs
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\obj\Debug\net6.0\Interview.csproj.CoreCompileInputs.cache
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\obj\Debug\net6.0\Interview.dll
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\obj\Debug\net6.0\ref\Interview.dll
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\obj\Debug\net6.0\Interview.pdb
+C:\Users\TrakterV2\Git\.NetGrafanaTemplate\Interview\Interview\obj\Debug\net6.0\Interview.genruntimeconfig.cache
